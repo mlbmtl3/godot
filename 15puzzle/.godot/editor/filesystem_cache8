@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1690418887
+default_env.tres::Environment::1133810052557130200::1690384830::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1677163755::0::1::::<><>::
+icon.png::CompressedTexture2D::6872637554807429784::1677163755::1690384820::1::::<><>::
+Main.gd::GDScript::-1::1690384830::0::1::::<>Node2D<>::
+Main.tscn::PackedScene::7268586005910069647::1690384830::0::1::::<><>::res://Main.gd
+Piece.gd::GDScript::-1::1690384889::0::1::::Piece<>Area2D<>::
+Piece.tscn::PackedScene::-1::1690384809::0::1::::<><>::res://assets/pieces.png<>res://Piece.gd
+::res://assets/::1690384820
+pieces.png::CompressedTexture2D::5813952775168649832::1677163755::1690384820::1::::<><>::
+::res://html/::1690384820
+index.apple-touch-icon.png::CompressedTexture2D::7294857235204811625::1677163755::1690384820::1::::<><>::
+index.icon.png::CompressedTexture2D::9056109622996847605::1677163755::1690384820::1::::<><>::
+index.png::CompressedTexture2D::8136436037672407433::1677163755::1690384820::1::::<><>::
