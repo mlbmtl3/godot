@@ -35,7 +35,8 @@ func move_piece(piece: Piece) -> void:
 		tween.tween_property(piece, "position", blank_piece.position, DURATION)
 		tween.tween_property(blank_piece, "position", t_pos, DURATION)
 		tween.set_parallel(false)
-		tween.tween_callback(Callable(self, "_update_index_pos"))
+		# メソッド名指定だけでOkになった
+		tween.tween_callback(_update_index_pos)
 
 # ピース作成・配置
 func _create_piece() -> void:
